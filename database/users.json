@@ -1,0 +1,118 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "vidya",
+      "email": "vidya@gmail.com",
+      "password": "vidya123",
+      "phone": "987451236",
+      "dob": "01/01/2001",
+      "pic": "",
+      "gender": "",
+      "active_bookings": [
+        {
+          "ticket_no": 123,
+          "busname": "airavatha",
+          "busnumber": "KA014567",
+          "distance": "1000kms",
+          "seatno": [
+            "E5"
+          ],
+          "seats": "1",
+          "boarding": "bengaluru",
+          "departure": "Mumbai",
+          "boarding_time": "10:00 am",
+          "departure_time": "10:00 pm",
+          "journey_time": "10 hrs",
+          "price": "1000",
+          "date": "20/7/2023"
+        },
+        {
+          "busname": "Airavatha",
+          "busnumber": "KA01E342",
+          "seats": 1,
+          "from": "Bengaluru",
+          "to": "Kodagu",
+          "start": "6:00am",
+          "end": "2:00pm",
+          "journey_time": "8",
+          "price": 600,
+          "date": "2023-05-27"
+        }
+      ],
+      "previous_bookings": []
+    },
+    {
+      "uername": "Sanju",
+      "email": "sanju@gmail.com",
+      "password": "sanju",
+      "phone": "9874512304",
+      "dob": "2023-05-12",
+      "id": 2
+    },
+    {
+      "uername": "Manju",
+      "email": "manju@gmail.com",
+      "password": "manju",
+      "phone": "7676757321",
+      "dob": "2023-05-05",
+      "id": 3
+    },
+    {
+      "uername": "Sharan",
+      "email": "sharan@gmail.com",
+      "password": "123",
+      "phone": "7676987421",
+      "dob": "2023-05-12",
+      "id": 5
+    },
+    {
+      "uername": "Fioanna",
+      "email": "fioanna@gamil.com",
+      "password": "456",
+      "phone": "8745321459",
+      "dob": "2023-05-03",
+      "id": 6
+    },
+    {
+      "username": "jery",
+      "email": "jery@gmail.com",
+      "password": "jio",
+      "phone": "8745775321",
+      "dob": "2023-05-06",
+      "id": 7
+    },
+    {
+      "username": "hari",
+      "email": "hari@gmail.com",
+      "password": "hari",
+      "phone": "9874512035",
+      "dob": "2023-05-07",
+      "id": 8
+    },
+    {
+      "username": "Boomi",
+      "email": "boo@gmail.com",
+      "password": "123",
+      "phone": "9874516784",
+      "dob": "2023-05-04",
+      "id": 9
+    },
+    {
+      "username": "Sanju",
+      "email": "sanju@gmail.com",
+      "password": "sanju",
+      "phone": "9874512304",
+      "dob": "2023-05-12",
+      "id": 10
+    },
+    {
+      "username": "vidya",
+      "email": "vidya@gmail.com",
+      "password": "vidya123",
+      "phone": "987451236",
+      "dob": "2001-01-01",
+      "id": 11
+    }
+  ]
+}
